@@ -13,5 +13,5 @@ These scripts are for setting up and analyse the results from the R package bppr
 For poolA11models.R:
 
 This script pools the results from several, equally long MCMC chains run by BPP version 4. There is documentation in the script. Note that the script also
-includes the function hpdxy, which calcuates the highest posterior density (HPD) when your data consist integers (here: number of spewcies) and their
+includes the function hpdxy, which calcuates the highest posterior density (HPD) when your data consist integers (here: number of species) and their
 corresponding frequencies (summing to 1).
