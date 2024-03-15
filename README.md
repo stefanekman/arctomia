@@ -15,3 +15,7 @@ For poolA11models.R:
 This script pools the results from several, equally long MCMC chains run by BPP version 4. There is documentation in the script. Note that the script also
 includes the function hpdxy, which calcuates the highest posterior density (HPD) when your data consist of integers (here: number of species) and their
 corresponding frequencies (summing to 1).
+
+For lda.R:
+Does LDA, incl. some assumption tests, on sequenced data and then applies the model to classify unsequenced specimens. Confirms results with MDA and Weighted Distance-Based DA.
+Input data is arctomia_morph.txt.
