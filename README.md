@@ -17,5 +17,6 @@ includes the function hpdxy, which calcuates the highest posterior density (HPD)
 corresponding frequencies (summing to 1).
 
 For lda.R:
+
 Does LDA, incl. some assumption tests, on sequenced data and then applies the model to classify unsequenced specimens. Confirms results with MDA and Weighted Distance-Based DA.
 Input data is arctomia_morph.txt.
