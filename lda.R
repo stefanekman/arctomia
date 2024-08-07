@@ -34,7 +34,7 @@ outliers::dixon.test(train$Ap) %>% capture.output(file="arctomia_output.txt", ap
 
 cat("\n\nLDA in MASS, train on sequenced specimens\n\n") %>% capture.output(file="arctomia_output.txt", append=T)
 # Standard LDA without cross validation
-arclda <- lda(x=scale(train[,1:3]), grouping=train[,4])
+arclda <- lda(x=train[,1:3], grouping=train[,4])
 arclda %>% capture.output(file="arctomia_output.txt", append=T)
 pred <- predict(arclda, method="plug-in", dimen=3)
 pred %>% capture.output(file="arctomia_output.txt", append=T)
@@ -55,7 +55,7 @@ classes <- cbind(attr(pred$x, which="dimnames")[[1]], as.character(pred$class))
 newdata[,4] <- classes[,2][match(row.names(newdata), classes[,1])]
 data <- rbind(train, newdata)
 
-arclda2 <- lda(x=scale(data[,1:3]), grouping=data[,4]) # new LDA with all data
+arclda2 <- lda(x=data[,1:3], grouping=data[,4]) # new LDA with all data
 cat("\n\nNew LDA with all data incl. predicted classes for unsequenced specimens, for making graph\n\n") %>% capture.output(file="arctomia_output.txt", append=T)
 arclda2 %>% capture.output(file="arctomia_output.txt", append=T)
 pred <- predict(arclda2, method="plug-in", dimen=3)
