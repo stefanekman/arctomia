@@ -23,9 +23,9 @@ teretiuscula_holotype	49.9	4.66	0.50	7	1	teretiuscula	1
 L-062018	30.0	4.68	0.43	3	2	interfixa	0
 L-602621	29.4	4.58	0.39	3	2	interfixa	0
 acutior_lectotype	55.6	3.50	0.25	7	0	acutior	0
-cisalpina_isotyp	56.3	5.25	0.34	7	0	del1_7	0
+cisalpina_isotype	56.3	5.25	0.34	7	0	del1_7	0
 delicatula_lectotype	56.6	5.33	0.29	7	0	del1_7	0
-C1237	58.7	4.75	0.29	7	0	del9_16	1
+C1237	58.7  4.75	0.29	7	0	del9_16	1
 C1239	60.8	4.96	0.27	7	0	del9_16	1
 C1233	52.8	4.94	0.32	7	0	del9_16	1
 C1243	57.1	4.66	0.39	7	0	del9_16	1
