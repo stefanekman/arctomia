@@ -1,0 +1,11 @@
+#nexus
+begin sets;
+	charset ITS1 = 1-215;
+	charset 58S = 216-369;
+	charset ITS2 = 370-539;
+	charset nrLSU = 540-1494;
+	charset RPB1_1 = 1495-1974\3;
+	charset RPB1_2 = 1496-1974\3;
+	charset RPB1_3 = 1497-1974\3;
+	charset mrSSU = 1975-2835;
+end;
