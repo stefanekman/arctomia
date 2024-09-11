@@ -1,0 +1,20 @@
+Run	freq	delimitation				models							marg.lnL	+2se		-2se		2*delta		BF
+c	41	(ABCDEF GHIJKLM NOPRTUV S X Y Z)	((ABCDEF, ((NOPRTUV, S), (X, Z))), (GHIJKLM, Y));	-4749.664	-4750.256	-4749.071	0
+f	38	(ABCDEF GHIJKLM NOPRTUV S X Y Z)	((ABCDEF, (GHIJKLM, Y)), ((NOPRTUV, S), (X, Z)));	-4749.685	-4750.676	-4748.694	0.042		not worth more than a bare mention
+e	36	(ABCDEF GHIJKLM NOPRTUV S X Y Z)	(((ABCDEF, GHIJKLM), Y), ((NOPRTUV, S), (X, Z)));	-4751.306	-4751.984	-4750.629	3.284		positive support
+g	31	(ABCDEF GHIJKLM NOPRTUV S XZ Y)		((ABCDEF, (GHIJKLM, Y)), ((NOPRTUV, S), XZ));		-4751.880	-4752.549	-4751.212	4.432		positive support
+i	24	(ABCDEF GHIJKLM NOPRTUV S XZ Y)		(((ABCDEF, GHIJKLM), Y), ((NOPRTUV, S), XZ));		-4753.279	-4753.752	-4752.805	7.230		strong support
+j	23	(ABCDEF GHIJKLM NOPRSTUVX Y Z)		(ABCDEF, ((GHIJKLM, Y), (NOPRSTUVX, Z)));		-4755.876	-4756.544	-4755.207	12.424		decisive support
+a	70	(ABCDEF GHIJKLM NOPRSTUVX Y Z)		((ABCDEF, (GHIJKLM, Y)), (NOPRSTUVX, Z));		-4758.344	-4759.490	-4757.193	17.360		decisive support
+b	51	(ABCDEF GHIJKLM NOPRSTUVX Y Z)		(((ABCDEF, GHIJKLM), Y), (NOPRSTUVX, Z));		-4758.674	-4760.120	-4757.228	18.020		decisive support
+h	29	(ABCDEF GHIJKLM NOPRSTUVX Y Z)		((ABCDEF, (NOPRSTUVX, Z)), (GHIJKLM, Y));		-4758.804	-4759.596	-4758.012	18.280		decisive support
+d	39	(ABCDEF GHIJKLM NOPRSTUVX Y Z)		(((ABCDEF, Y), GHIJKLM), (NOPRSTUVX, Z));		-4759.956	-4760.686	-4759.225	20.584		decisive support
+
+-------------------
+
+Run a-j are the 10 best models after the initial A11 runs, ranked in order by frequency ('freq' being the absolute frequency in the MCMC sample).
+Runs are sorted here in order of descending marginal likelihood as estimated by bppr.
+
+
+
+
