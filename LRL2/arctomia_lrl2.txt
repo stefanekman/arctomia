@@ -1,0 +1,86 @@
+Class membership probabilities and maxprob classification in training data:
+
+                           acutior     del1_7        del8    del9_16  interfixa teretiuscula predicted_class actual_class
+Du_Rietz_725d_L-124898  0.04338395 0.28546593 0.416726722 0.17898354 0.01651067   0.05892919            del8       del1_7
+Nordin_7191             0.03928251 0.27777609 0.228361687 0.25811948 0.03892285   0.15753738          del1_7       del1_7
+Thor_10264              0.06739503 0.45637581 0.200050746 0.24316123 0.01510368   0.01791351          del1_7       del1_7
+Westberg_P108           0.06530913 0.45144817 0.139997861 0.29267278 0.02300516   0.02756689          del1_7       del1_7
+Westberg_PAD262         0.02653919 0.32026812 0.293858938 0.22977064 0.02550860   0.10405450          del1_7       del1_7
+Westberg_Paltsan_C84    0.04655979 0.41346770 0.191425401 0.27679537 0.02463031   0.04712143          del1_7       del1_7
+Westberg_Hedenas_PL432a 0.06067289 0.37135633 0.102137804 0.34663375 0.04467406   0.07452516          del1_7       del1_7
+Westberg_15_061         0.02610418 0.21827520 0.521106084 0.13787879 0.01405954   0.08257621            del8         del8
+Nordin_5687             0.03103029 0.20251216 0.073135965 0.30197982 0.07950114   0.31184063    teretiuscula      del9_16
+Nordin_7387             0.10090720 0.31343657 0.141739956 0.31383663 0.04497926   0.08510038         del9_16      del9_16
+Degelius_1948_L-60479   0.05706094 0.34543367 0.104435485 0.34581159 0.04986064   0.09739768         del9_16      del9_16
+MS3870_C436             0.10933972 0.27141859 0.147225786 0.30441026 0.05154656   0.11605908         del9_16      del9_16
+Westberg_ULR152         0.07742061 0.33258177 0.077415403 0.36753793 0.05707014   0.08797416         del9_16      del9_16
+Westberg_ULR009         0.64480498 0.08862719 0.035364452 0.16034597 0.03955237   0.03130504         acutior      acutior
+L-794772_Fiby           0.82075080 0.03895272 0.028601247 0.07535306 0.02016631   0.01617586         acutior      acutior
+MS3209                  0.69783332 0.05167230 0.020643095 0.13236548 0.05076176   0.04672405         acutior      acutior
+MS3047_C006             0.75442962 0.05233976 0.011625687 0.12333316 0.03848738   0.01978440         acutior      acutior
+MS1281_C016             0.80280313 0.03582969 0.017869363 0.08775565 0.03105129   0.02469087         acutior      acutior
+Hermansson_15200_C082   0.84491062 0.02440375 0.007188474 0.07384930 0.03161904   0.01802880         acutior      acutior
+LD_1117062              0.03611694 0.02233380 0.006657118 0.05327777 0.80873786   0.07287651       interfixa    interfixa
+teretiuscula_holotype   0.03198071 0.06453273 0.091832338 0.13598557 0.06363843   0.61203022    teretiuscula teretiuscula
+C1237                   0.15322032 0.26891777 0.191984109 0.26909891 0.03892219   0.07785670         del9_16      del9_16
+C1239                   0.11413511 0.32901128 0.222149115 0.25833308 0.02742432   0.04894709          del1_7      del9_16
+C1233                   0.10186064 0.27883968 0.126380492 0.32011938 0.05518086   0.11761895         del9_16      del9_16
+C1243                   0.09541475 0.16586090 0.215937078 0.22299475 0.05341978   0.24637274    teretiuscula      del9_16
+
+
+
+Confusion matrix for original training set:
+
+Confusion Matrix and Statistics
+
+              Reference
+Prediction     acutior del1_7 del8 del9_16 interfixa teretiuscula
+  acutior            6      0    0       0         0            0
+  del1_7             0      6    0       2         0            0
+  del8               0      1    1       0         0            0
+  del9_16            0      0    0       5         0            0
+  interfixa          0      0    0       0         1            0
+  teretiuscula       0      0    0       2         0            1
+
+Overall Statistics
+                                         
+               Accuracy : 0.8            
+                 95% CI : (0.593, 0.9317)
+    No Information Rate : 0.36           
+    P-Value [Acc > NIR] : 8.76e-06       
+                                         
+                  Kappa : 0.7407         
+                                         
+ Mcnemar's Test P-Value : NA             
+
+Statistics by Class:
+
+                     Class: acutior Class: del1_7 Class: del8 Class: del9_16 Class: interfixa Class: teretiuscula
+Sensitivity                    1.00        0.8571      1.0000         0.5556             1.00              1.0000
+Specificity                    1.00        0.8889      0.9583         1.0000             1.00              0.9167
+Pos Pred Value                 1.00        0.7500      0.5000         1.0000             1.00              0.3333
+Neg Pred Value                 1.00        0.9412      1.0000         0.8000             1.00              1.0000
+Prevalence                     0.24        0.2800      0.0400         0.3600             0.04              0.0400
+Detection Rate                 0.24        0.2400      0.0400         0.2000             0.04              0.0400
+Detection Prevalence           0.24        0.3200      0.0800         0.2000             0.04              0.1200
+Balanced Accuracy              1.00        0.8730      0.9792         0.7778             1.00              0.9583
+
+
+
+Average Shannon entropy across samples of training data: 1.898105
+
+
+
+Class membership probabilities and maxprob classification in test data:
+
+                                acutior     del1_7       del8    del9_16   interfixa teretiuscula    testclass
+L-062018                     0.09136620 0.11036864 0.08681356 0.20991527 0.154200148   0.34733618 teretiuscula
+L-602621                     0.16559114 0.13267846 0.07273270 0.24722913 0.161605325   0.22016325      del9_16
+acutior_lectotype            0.87781305 0.02589132 0.02214008 0.05427369 0.008481577   0.01140028      acutior
+cisalpina_isotyp             0.07080019 0.34782512 0.25330606 0.25806698 0.014277954   0.05572368       del1_7
+delicatula_lectotype         0.08312507 0.43306454 0.18589179 0.26549620 0.010450959   0.02197144       del1_7
+interfixa_isolecto_S-F145773 0.05284377 0.32681220 0.10294528 0.32166183 0.094293124   0.10144381       del1_7
+S-F145788                    0.08271722 0.29416036 0.09575657 0.32182627 0.104788589   0.10075099      del9_16
+
+
+
