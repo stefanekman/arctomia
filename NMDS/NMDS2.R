@@ -3,10 +3,10 @@
 # | This script performs non-metric multidimensional scaling (nMDS) using Euclidean        |
 # | distances into two dimensions. Note that nMDS does not use the distances as they are,  |
 # | only the rank order of the distances.                                                  |
-# | Basic statistics, including feature vector, are output to a text file, a Shepard       |
+# | Basic statistics, including feature vectors, are output to a text file, a Shepard      |
 # | diagram, and a nMDS graph is provided.                                                 |
 # |                                                                                        |
-# | Stefan Ekman 19 Nov 2024.                                                               |               
+# | Stefan Ekman 19 Nov 2024.                                                              |               
 # +----------------------------------------------------------------------------------------+
 #
 
