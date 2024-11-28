@@ -1,3 +1,7 @@
+# Arctomia
+
+Analyses in R used versions from 4.2.1 to 4.4.1.
+
 For bootstrap.R and extract.R:
 
 "Furthermore, we designed a simple ML bootstrap procedure that estimates phylogenetic uncertainty stemming also from uncertainty about the alignment itself.
