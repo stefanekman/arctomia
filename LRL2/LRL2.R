@@ -38,7 +38,7 @@ if ( min(table(y_train))<3 ) {
 	y_train2 <- y_train
 }
 
-# Fit the L2-regularized logistic regression model; alpha = 0 specifies L2 regularization (Ridge)
+# Fit the L2-regularised logistic regression model; alpha = 0 specifies L2 regularisation (Ridge)
 # A bug in cv.glmnet makes it output warnings that are not true, hence the suppressing of warnings
 suppressWarnings({
 	model <- cv.glmnet(X_train2, y_train2, family = "multinomial", alpha = 0, type.measure="class", nfolds=10)
