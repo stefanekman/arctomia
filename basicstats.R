@@ -73,7 +73,7 @@ calculate_specimen_mean_range <- function(data, column) {
 		median_mean = mean_ranges$mean[,2],
 		max_mean = mean_ranges$mean[,3],
 		min_count = mean_ranges$count[,1],
-		median_count = mean_ranges$mean[,2],
+		median_count = mean_ranges$count[,2],
 		max_count = mean_ranges$count[,3]
 	)
   
