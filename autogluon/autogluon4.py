@@ -1,14 +1,14 @@
 # +-----------------------------------------------------------------------+
 # | This script performs Autogluon machine learning on tabular data sets. |
 # | It also calculates the mean Shannon entropy across specimens.         |
-# | of the probability distribution across classes, as well as mean.      |
+# | of the probability distribution across classes, as well as mean       |
 # | SHAP values across classes.                                           |
 # |                                                                       |
 # | Stefan Ekman, 3 Dec 2024                                              |
 # +-----------------------------------------------------------------------+
 
 
-# Read packages, Autogluon here in version 1.2.0
+# Read packages, Autogluon here in ver. 1.2.0
 from autogluon.tabular import TabularDataset, TabularPredictor
 from tabulate import tabulate
 import pandas as pd
