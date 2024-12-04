@@ -1,14 +1,14 @@
 # +-----------------------------------------------------------------------+
-# | This script performs Autogluon machine learning on tabular data sets. |
+# | This script performs HyperFast machine learning on tabular data sets. |
 # | It also calculates the mean Shannon entropy across specimens.         |
-# | of the probability distribution across classes, as well as mean.      |
+# | of the probability distribution across classes, as well as mean       |
 # | SHAP values across classes.                                           |
 # |                                                                       |
 # | Stefan Ekman, 3 Dec 2024                                              |
 # +-----------------------------------------------------------------------+
 
 
-# Read packages
+# Read packages, HyperFast here in ver. 1.0.2
 import torch
 from hyperfast import HyperFastClassifier
 from sklearn.metrics import accuracy_score
