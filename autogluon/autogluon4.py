@@ -8,7 +8,7 @@
 # +-----------------------------------------------------------------------+
 
 
-# Read packages
+# Read packages, Autogluon here in version 1.2.0
 from autogluon.tabular import TabularDataset, TabularPredictor
 from tabulate import tabulate
 import pandas as pd
@@ -28,7 +28,7 @@ def format_number(x):
 		return f'{x:.5f}'
 
 # Set working directory
-os.chdir('/Users/stefanekman/Python_workdir')
+os.chdir('/Users/stefan/Python_workdir')
 
 # Read complete data
 data = pd.read_csv('arctomia_morph.txt', sep='\t')
