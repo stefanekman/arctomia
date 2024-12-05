@@ -1,0 +1,59 @@
+Training accuracy: 1.00000
+Average entropy across training data: 0.00510
+
+
+Training data predictions with class membership probabilities:
+
+ID                         acutior    confusa    delicatula    delicatula_14    interfixa    teretiuscula  class
+-----------------------  ---------  ---------  ------------  ---------------  -----------  --------------  -------------
+Du_Rietz_725d_L-124898     0.00000    0.00024       0.99952          0.00024      0.00000         0.00000  delicatula
+Nordin_7191                0.00000    0.00156       0.99811          0.00032      0.00000         0.00000  delicatula
+Thor_10264                 0.00000    0.00000       1.00000          0.00000      0.00000         0.00000  delicatula
+Westberg_P108              0.00000    0.00000       1.00000          0.00000      0.00000         0.00000  delicatula
+Westberg_PAD262            0.00000    0.00000       0.99991          0.00009      0.00000         0.00000  delicatula
+Westberg_Paltsan_C84       0.00000    0.00000       1.00000          0.00000      0.00000         0.00000  delicatula
+Westberg_Hedenas_PL432a    0.00000    0.00475       0.99525          0.00000      0.00000         0.00000  delicatula
+Westberg_15_061            0.00000    0.00000       0.00034          0.99966      0.00000         0.00000  delicatula_14
+Nordin_5687                0.00000    1.00000       0.00000          0.00000      0.00000         0.00000  confusa
+Nordin_7387                0.00000    0.99992       0.00008          0.00000      0.00000         0.00000  confusa
+Degelius_1948_L-60479      0.00000    0.99588       0.00412          0.00000      0.00000         0.00000  confusa
+MS3870_C436                0.00000    1.00000       0.00000          0.00000      0.00000         0.00000  confusa
+Westberg_ULR152            0.00000    0.99993       0.00007          0.00000      0.00000         0.00000  confusa
+Westberg_ULR009            1.00000    0.00000       0.00000          0.00000      0.00000         0.00000  acutior
+L-794772_Fiby              1.00000    0.00000       0.00000          0.00000      0.00000         0.00000  acutior
+MS3209                     1.00000    0.00000       0.00000          0.00000      0.00000         0.00000  acutior
+MS3047_C006                1.00000    0.00000       0.00000          0.00000      0.00000         0.00000  acutior
+MS1281_C016                1.00000    0.00000       0.00000          0.00000      0.00000         0.00000  acutior
+Hermansson_15200_C082      1.00000    0.00000       0.00000          0.00000      0.00000         0.00000  acutior
+LD_1117062                 0.00000    0.00000       0.00000          0.00000      1.00000         0.00000  interfixa
+teretiuscula_holo          0.00000    0.00002       0.00000          0.00005      0.00000         0.99992  teretiuscula
+C1237                      0.00000    1.00000       0.00000          0.00000      0.00000         0.00000  confusa
+C1239                      0.00000    0.99926       0.00074          0.00000      0.00000         0.00000  confusa
+C1233                      0.00000    1.00000       0.00000          0.00000      0.00000         0.00000  confusa
+C1243                      0.00000    1.00000       0.00000          0.00000      0.00000         0.00000  confusa
+
+
+Test data predictions with class membership probabilities:
+
+ID                              acutior    confusa    delicatula    delicatula_14    interfixa    teretiuscula  class
+----------------------------  ---------  ---------  ------------  ---------------  -----------  --------------  ----------
+L-062018                        0.00000    0.00000       0.00000          0.00000      1.00000         0.00000  interfixa
+L-602621                        0.00000    0.00000       0.00000          0.00000      1.00000         0.00000  interfixa
+acutior_lecto                   1.00000    0.00000       0.00000          0.00000      0.00000         0.00000  acutior
+cisalpina_iso                   0.00000    0.00894       0.99106          0.00000      0.00000         0.00000  delicatula
+delicatula_lecto                0.00000    0.00000       0.99999          0.00000      0.00000         0.00000  delicatula
+interfixa_isolecto_S_F145773    0.00000    0.00000       0.00000          0.00000      1.00000         0.00000  interfixa
+S-F145788                       0.00000    0.00000       0.00000          0.00000      1.00000         0.00000  interfixa
+
+
+Combined mean absolute SHAP values for each class:
+
+                     L        W       Ap     Sept
+-------------  -------  -------  -------  -------
+acutior        0.00949  0.26167  0.09948  0.00768
+confusa        0.12550  0.22105  0.16477  0.03932
+delicatula     0.10296  0.33010  0.13615  0.00694
+delicatula_14  0.05782  0.01556  0.05326  0.00551
+interfixa      0.00292  0.00294  0.00945  0.06171
+teretiuscula   0.01525  0.05499  0.10243  0.01026
+
