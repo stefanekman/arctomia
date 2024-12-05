@@ -4,11 +4,11 @@
 # | of the probability distribution across classes, as well as mean       |
 # | SHAP values across classes.                                           |
 # |                                                                       |
-# | Stefan Ekman, 3 Dec 2024                                              |
+# | Version 4. Stefan Ekman, 3 Dec 2024                                   |
 # +-----------------------------------------------------------------------+
 
 
-# Read packages, Autogluon here in ver. 1.2.0
+# Read packages, Autogluon here in ver. 1.1.0
 from autogluon.tabular import TabularDataset, TabularPredictor
 from tabulate import tabulate
 import pandas as pd
