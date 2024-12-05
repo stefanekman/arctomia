@@ -8,7 +8,7 @@
 # +-----------------------------------------------------------------------+
 
 
-# Read packages, HyperFast here in ver. 1.0.2
+# Read packages, HyperFast installation in ver. 1.0.2
 import torch
 from hyperfast import HyperFastClassifier
 from sklearn.metrics import accuracy_score
