@@ -8,7 +8,7 @@
 # +-----------------------------------------------------------------------+
 
 
-# Read packages, Autogluon here in ver. 1.1.0
+# Read packages, Autogluon installation in ver. 1.1.0
 from autogluon.tabular import TabularDataset, TabularPredictor
 from tabulate import tabulate
 import pandas as pd
