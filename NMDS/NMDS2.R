@@ -3,10 +3,10 @@
 # | This script performs non-metric multidimensional scaling (nMDS) using Euclidean        |
 # | distances into two dimensions. Note that nMDS does not use the distances as they are,  |
 # | only the rank order of the distances.                                                  |
-# | Basic statistics, including feature vectors, are output to a text file. A Shepard      |
-# | diagram and a nMDS graph are also provided.                                            |
+# | Basic statistics, including feature vector, are output to a text file, a Shepard       |
+# | diagram, and a nMDS graph is provided.                                                 |
 # |                                                                                        |
-# | Stefan Ekman 19 Nov 2024.                                                              |               
+# | Stefan Ekman 19 Nov 2024.                                                               |               
 # +----------------------------------------------------------------------------------------+
 #
 
@@ -15,9 +15,10 @@
 library(vegan)
 library(ggplot2)
 library(svglite)
+library(dplyr)
 
 # Set working directory
-setwd("/Users/stefan/R_workdir/nMDS")
+setwd("/Users/stefanekman/R_workdir/nMDS")
 
 # Get data and labels
 data <- read.table(file="arctomia_morph.txt", sep="\t", header=T, row.names=1)
@@ -53,13 +54,13 @@ vectors_df$variable <- rownames(vector_scores)
 # Create basic NMDS plot with points
 plot <- ggplot(nmds_data, aes(x = NMDS1, y = NMDS2, color = Species)) +
   geom_point(size = 3) +
-  scale_color_manual(values = c("#D82D30", "#0087CD", "#528635", "#693B3F", "#F7931E", "#FF00FF")) +  # Manually define colors
+  scale_color_manual(values = c("#D82D30", "#693B3F", "#0087CD", "#528635", "#F7931E", "#FF00FF")) +  # Manually define colors
   theme_minimal() +
   labs(title = NULL, x = "NMDS1", y = "NMDS2")
 
 # Set x and y axis limits and add tick marks at every integer from -2 to 2
 plot <- plot +
-  scale_x_continuous(limits = c(-2, 3.5), breaks = seq(-2, 3, 1)) +  # Set x-axis from -2 to 2 with ticks at every integer
+  scale_x_continuous(limits = c(-2, 4), breaks = seq(-2, 4, 1)) +  # Set x-axis from -2 to 4 with ticks at every integer
   scale_y_continuous(limits = c(-2, 2.5), breaks = seq(-2, 2, 1))    # Set y-axis from -2 to 2 with ticks at every integer
 
 # Add arrows to the plot
@@ -105,10 +106,11 @@ plot <- plot +
 ggsave("NMDS_plot.svg", plot = plot, dpi = 600, width = 10, height = 8)
 
 # Save basic analysis stats
-sink("nmds.txt", append=F)
-nmds_result
-envfit_result
-sink()
+print(nmds_result) %>% capture.output(file="nmds.txt", append=F)
+cat("\n\n\n") %>% capture.output(file="nmds.txt", append=T)
+print(envfit_result) %>% capture.output(file="nmds.txt", append=T)
+
+# Save Shepard diagram
 pdf(file="shepard.pdf")
 stressplot(nmds_result)
 dev.off()

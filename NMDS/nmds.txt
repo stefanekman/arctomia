@@ -8,22 +8,27 @@ Data:     distance_matrix
 Distance: euclidean 
 
 Dimensions: 2 
-Stress:     0.05536394 
+Stress:     0.04998583 
 Stress type 1, weak ties
-Best solution was repeated 70 times in 100 tries
-The best solution was from try 25 (random start)
+Best solution was repeated 90 times in 100 tries
+The best solution was from try 4 (random start)
 Scaling: centring, PC rotation 
 Species: scores missing
+
+
+
 
 
 ***VECTORS
 
         NMDS1    NMDS2     r2 Pr(>r)    
-L    -0.81810 -0.57507 0.9377  1e-04 ***
-W     0.23822 -0.97121 0.7805  1e-04 ***
-Ap    0.69047 -0.72336 0.8705  1e-04 ***
-Sept -0.90094 -0.43393 0.8988  1e-04 ***
+L    -0.80514 -0.59308 0.9394  1e-04 ***
+W     0.25471 -0.96702 0.8042  1e-04 ***
+Ap    0.70521 -0.70900 0.8724  1e-04 ***
+Sept -0.88966 -0.45662 0.8976  1e-04 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 Permutation: free
 Number of permutations: 9999
+
+
