@@ -1,6 +1,6 @@
 # +-----------------------------------------------------------------------+
 # | This script performs Autogluon machine learning on tabular data sets. |
-# | It also calculates the mean Shannon entropy across specimens.         |
+# | It also calculates the mean Shannon entropy across specimens          |
 # | of the probability distribution across classes, as well as mean       |
 # | SHAP values across classes.                                           |
 # |                                                                       |
