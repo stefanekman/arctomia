@@ -1,3 +1,4 @@
+
 ID | Voucher | Classification
 -----------------------------
 Arctomia delicatula 23 | Finland, Inarin lappi, Silén s.n. (H-NYL 31215 = H9506245, lectotype of Pannaria acutior) | acutior
