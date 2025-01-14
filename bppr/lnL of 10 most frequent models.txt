@@ -12,7 +12,7 @@ d	39	(ABCDEF GHIJKLM NOPRSTUVX Y Z)		(((ABCDEF, Y), GHIJKLM), (NOPRSTUVX, Z));		
 
 -------------------
 
-Run a-j are the 10 best models after the initial A11 runs, ranked in order by frequency ('freq' being the absolute frequency in the MCMC sample).
+Runs a-j are the 10 best models after the initial A11 runs, ranked in order by frequency ('freq' being the absolute frequency in the MCMC sample).
 Runs are sorted here in order of descending marginal likelihood as estimated by bppr.
 
 
