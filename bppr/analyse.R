@@ -1,6 +1,10 @@
-# +---------------------
-# | This script uses the package bppr to estimate the marginal likelihood
-# | of a model using a stepping stones approach from a set of
+# +------------------------------------------------------------------------+
+# | This script uses the package bppr to estimate the marginal likelihood  |
+# | of a model using a stepping stones approach from a set of BPP analyses |
+# | generated using bppr::make.bfctlf() - see script 'setup.R'.            |
+# |                                                                        |
+# | Stefan Ekman, 21 Jan 2025                                              |
+# +------------------------------------------------------------------------+
 
 library(bppr)
 setwd("~/Documents/bppr")
