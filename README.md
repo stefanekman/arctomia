@@ -1,6 +1,6 @@
 # Arctomia
 
-This is the GitHub repository 'Arctomia' accompanying the paper Ekman, S., Svensson, M. & Westberg, M. 2025: 'Probabilistic inference of species boundaries and type affiliations in the lichen genus Arctomia (Arctomiaceae, Ascomycota)' in Taxon 74: XXX–XXX. This respository contains all data, including alignments, trees not illustrated, morphological data, as well as all R and Python scripts found in that paper.
+This is the GitHub repository 'Arctomia' accompanying the paper Ekman, S., Svensson, M. & Westberg, M. 2025: 'Probabilistic inference of species boundaries and type affiliations in the lichen genus Arctomia (Arctomiaceae, Ascomycota)' in Taxon 74: XXX–XXX. This respository contains all data, including alignments, trees not illustrated, morphological data, as well as all R and Python scripts used for that paper.
 
 Data and scripts should be more or less self-explanatory from the names of folders and files. When this is not the case, a README.md file has been added to provide the necessary information to understand the data and scripts in order to reproduce the results.
 
