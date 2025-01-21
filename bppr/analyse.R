@@ -1,3 +1,7 @@
+# +---------------------
+# | This script uses the package bppr to estimate the marginal likelihood
+# | of a model using a stepping stones approach from a set of
+
 library(bppr)
 setwd("~/Documents/bppr")
 
