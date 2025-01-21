@@ -1,0 +1,578 @@
+Specimen	L	W	Ap	Species	
+Du_Rietz_725d_L-124898	66.00	5.50	0.375	delicatula	
+Du_Rietz_725d_L-124898	66.00	5.50	0.375	delicatula	
+Du_Rietz_725d_L-124898	67.00	5.00	0.350	delicatula	
+Du_Rietz_725d_L-124898	53.50	5.50	0.400	delicatula	
+Du_Rietz_725d_L-124898	54.00	5.50	0.400	delicatula	
+Du_Rietz_725d_L-124898	76.00	5.00	0.425	delicatula	
+Du_Rietz_725d_L-124898	79.00	4.50	0.375	delicatula	
+Du_Rietz_725d_L-124898			0.300	delicatula	
+Du_Rietz_725d_L-124898			0.175	delicatula	
+Du_Rietz_725d_L-124898			0.300	delicatula	
+Du_Rietz_725d_L-124898			0.300	delicatula	
+Du_Rietz_725d_L-124898			0.325	delicatula	
+Du_Rietz_725d_L-124898			0.225	delicatula	
+Du_Rietz_725d_L-124898			0.225	delicatula	
+Du_Rietz_725d_L-124898			0.350	delicatula	
+Du_Rietz_725d_L-124898			0.375	delicatula	
+Du_Rietz_725d_L-124898			0.300	delicatula	
+Du_Rietz_725d_L-124898			0.350	delicatula	
+Du_Rietz_725d_L-124898			0.325	delicatula	
+Du_Rietz_725d_L-124898			0.500	delicatula	
+Du_Rietz_725d_L-124898			0.200	delicatula	
+Nordin_7191	64.00	5.00	0.475	delicatula	
+Nordin_7191	52.00	6.00	0.375	delicatula	
+Nordin_7191	50.00	5.00	0.275	delicatula	
+Nordin_7191	60.00	6.00		delicatula	
+Nordin_7191	54.00	5.00		delicatula	
+Nordin_7191	51.00	5.00		delicatula	
+Nordin_7191	57.00	5.00		delicatula	
+Nordin_7191	63.00	5.00		delicatula	
+Thor_10264	52.00	7.00	0.200	delicatula	
+Thor_10264	53.00	4.00	0.200	delicatula	
+Thor_10264	47.00	6.00	0.250	delicatula	
+Thor_10264	60.00	7.00		delicatula	
+Thor_10264	52.00	6.00		delicatula	
+Thor_10264	44.00	6.00		delicatula	
+Thor_10264	64.00	4.00		delicatula	
+Thor_10264	58.00	4.50		delicatula	
+Thor_10264	72.00	5.50		delicatula	
+Thor_10264	77.00	5.50		delicatula	
+Thor_10264	72.00	5.00		delicatula	
+Thor_10264	81.00	4.50		delicatula	
+Thor_10264	76.00	4.50		delicatula	
+Westberg_P108	45.00	4.00	0.250	delicatula	
+Westberg_P108	58.00	5.00	0.250	delicatula	
+Westberg_P108	63.00	5.00	0.250	delicatula	
+Westberg_P108	57.00	5.00	0.225	delicatula	
+Westberg_P108	60.00	6.00		delicatula	
+Westberg_P108	50.00	5.50		delicatula	
+Westberg_P108	43.00	6.00		delicatula	
+Westberg_P108	45.00	6.00		delicatula	
+Westberg_P108	53.00	6.00		delicatula	
+Westberg_P108	63.00	5.50		delicatula	
+Westberg_P108	61.00	5.00		delicatula	
+Westberg_P108	72.00	5.50		delicatula	
+Westberg_P108	61.50	5.50		delicatula	
+Westberg_P108	51.00	6.00		delicatula	
+Westberg_P108	53.50	6.00		delicatula	
+Westberg_P108	56.00	5.00		delicatula	
+Westberg_P108	67.00	5.00		delicatula	
+Westberg_P108	59.00	5.50		delicatula	
+Westberg_P108	53.00	5.50		delicatula	
+Westberg_P108	55.00	5.00		delicatula	
+Westberg_P108	64.00	5.00		delicatula	
+Westberg_P108	71.00	5.50		delicatula	
+Westberg_P108	54.00	5.00		delicatula	
+Westberg_PAD262	55.00	5.50	0.375	delicatula	
+Westberg_PAD262	58.00	5.00	0.375	delicatula	
+Westberg_PAD262	62.00	5.50	0.375	delicatula	
+Westberg_PAD262	58.00	5.00	0.350	delicatula	
+Westberg_PAD262	58.50	6.00	0.200	delicatula	
+Westberg_PAD262	62.00	5.50	0.325	delicatula	
+Westberg_PAD262	61.00	5.00	0.425	delicatula	
+Westberg_PAD262	74.00	5.00	0.375	delicatula	
+Westberg_PAD262	49.00	5.00	0.250	delicatula	
+Westberg_PAD262	61.00	6.00	0.375	delicatula	
+Westberg_PAD262	54.00	6.00	0.350	delicatula	
+Westberg_PAD262	61.00	6.00	0.175	delicatula	
+Westberg_PAD262			0.450	delicatula	
+Westberg_PAD262			0.400	delicatula	
+Westberg_PAD262			0.550	delicatula	
+Westberg_PAD262			0.500	delicatula	
+Westberg_PAD262			0.475	delicatula	
+Westberg_PAD262			0.250	delicatula	
+Westberg_PAD262			0.375	delicatula	
+Westberg_Paltsan_C84	60.00	6.00	0.250	delicatula	
+Westberg_Paltsan_C84	61.00	5.50	0.250	delicatula	
+Westberg_Paltsan_C84	57.00	5.00	0.350	delicatula	
+Westberg_Paltsan_C84	52.00	5.00	0.300	delicatula	
+Westberg_Paltsan_C84	55.00	6.00		delicatula	
+Westberg_Paltsan_C84	63.00	5.00		delicatula	
+Westberg_Hedenas_PL432a	52.70	4.65	0.375	delicatula	
+Westberg_Hedenas_PL432a	37.98	5.43	0.375	delicatula	
+Westberg_Hedenas_PL432a	55.80	6.20	0.325	delicatula	
+Westberg_Hedenas_PL432a	55.80	5.43	0.425	delicatula	
+Westberg_Hedenas_PL432a	49.60	5.43	0.200	delicatula	
+Westberg_Hedenas_PL432a	51.15	4.96	0.225	delicatula	
+Westberg_Hedenas_PL432a	49.60	5.43	0.200	delicatula	
+Westberg_Hedenas_PL432a	46.50	6.20	0.300	delicatula	
+Westberg_Hedenas_PL432a	49.60	4.96	0.250	delicatula	
+Westberg_Hedenas_PL432a	58.90	4.65		delicatula	
+Westberg_Hedenas_PL432a	54.25	4.96		delicatula	
+Westberg_15_061	71.00	5.00	0.400	delicatula_14	
+Westberg_15_061	77.00	5.00	0.400	delicatula_14	
+Westberg_15_061	64.00	6.00	0.225	delicatula_14	
+Westberg_15_061	57.00	5.00	0.225	delicatula_14	
+Westberg_15_061	67.00	5.50	0.350	delicatula_14	
+Westberg_15_061	79.00	5.00	0.375	delicatula_14	
+Westberg_15_061	60.00	4.00	0.425	delicatula_14	
+Westberg_15_061	71.00	6.00	0.425	delicatula_14	
+Westberg_15_061	68.00	5.50	0.450	delicatula_14	
+Westberg_15_061	68.00	5.50	0.500	delicatula_14	
+Westberg_15_061	68.00	6.00	0.250	delicatula_14	
+Westberg_15_061	66.00	5.00	0.250	delicatula_14	
+Westberg_15_061	73.00	5.50	0.425	delicatula_14	
+Westberg_15_061	75.00	5.00	0.425	delicatula_14	
+Westberg_15_061	63.00	5.00	0.425	delicatula_14	
+Westberg_15_061	55.00	5.00	0.275	delicatula_14	
+Westberg_15_061			0.275	delicatula_14	
+Westberg_15_061			0.500	delicatula_14	
+Westberg_15_061			0.500	delicatula_14	
+Westberg_15_061			0.400	delicatula_14	
+Westberg_15_061			0.400	delicatula_14	
+Westberg_15_061			0.500	delicatula_14	
+Westberg_15_061			0.525	delicatula_14	
+Westberg_15_061			0.300	delicatula_14	
+Westberg_15_061			0.325	delicatula_14	
+Westberg_15_061			0.375	delicatula_14	
+Westberg_15_061			0.450	delicatula_14	
+Nordin_5687	52.00	4.00	0.300	confusa	
+Nordin_5687	38.00	5.00	0.375	confusa	
+Nordin_5687	38.00	6.00	0.450	confusa	
+Nordin_5687	47.00	6.00	0.550	confusa	
+Nordin_5687	51.00	4.00		confusa	
+Nordin_5687	40.00	5.00		confusa	
+Nordin_5687	44.00	5.00		confusa	
+Nordin_5687	40.00	6.00		confusa	
+Nordin_5687	47.00	5.00		confusa	
+Nordin_5687	50.00	4.50		confusa	
+Nordin_5687	48.00	4.50		confusa	
+Nordin_5687	53.00	5.50		confusa	
+Nordin_5687	54.00	5.00		confusa	
+Nordin_5687	39.50	6.00		confusa	
+Nordin_5687	39.50	6.00		confusa	
+Nordin_5687	42.00	6.00		confusa	
+Nordin_5687	44.00	5.50		confusa	
+Nordin_5687	39.00	5.00		confusa	
+Nordin_5687	40.00	5.50		confusa	
+Nordin_5687	41.00	5.00		confusa	
+Nordin_5687	46.00	5.50		confusa	
+Nordin_5687	46.00	6.00		confusa	
+Nordin_5687	45.00	5.60		confusa	
+Nordin_5687	50.00	4.50		confusa	
+Nordin_7387	56.00	4.50	0.300	confusa	
+Nordin_7387	50.00	5.00	0.275	confusa	
+Nordin_7387	55.00	4.50	0.275	confusa	
+Nordin_7387	41.00	4.50	0.425	confusa	
+Nordin_7387	57.00	5.00	0.425	confusa	
+Nordin_7387	56.00	5.00	0.350	confusa	
+Nordin_7387	58.00	5.00	0.350	confusa	
+Nordin_7387	53.00	4.50	0.350	confusa	
+Nordin_7387	55.00	5.00	0.325	confusa	
+Nordin_7387	53.00	5.00	0.325	confusa	
+Nordin_7387	53.00	5.00	0.225	confusa	
+Nordin_7387	56.00	5.00	0.375	confusa	
+Nordin_7387	55.00	5.00	0.375	confusa	
+Nordin_7387	60.00	5.00	0.500	confusa	
+Nordin_7387	60.00	6.00	0.450	confusa	
+Nordin_7387	55.00	6.00		confusa	
+Degelius_1948_L-60479	54.00	4.00	0.325	confusa	
+Degelius_1948_L-60479	50.00	5.00	0.325	confusa	
+Degelius_1948_L-60479	48.00	5.00	0.300	confusa	
+Degelius_1948_L-60479	49.00	5.00	0.325	confusa	
+Degelius_1948_L-60479	49.00	6.00	0.400	confusa	
+Degelius_1948_L-60479	47.00	5.00	0.250	confusa	
+Degelius_1948_L-60479	48.50	5.50	0.250	confusa	
+Degelius_1948_L-60479	52.50	5.50	0.275	confusa	
+Degelius_1948_L-60479	50.00	4.50	0.275	confusa	
+Degelius_1948_L-60479	48.50	4.50	0.200	confusa	
+Degelius_1948_L-60479	71.50	4.50	0.350	confusa	
+Degelius_1948_L-60479	65.00	6.50	0.375	confusa	
+Degelius_1948_L-60479	46.00	4.50	0.400	confusa	
+Degelius_1948_L-60479	41.00	6.50	0.275	confusa	
+Degelius_1948_L-60479	38.50	7.50	0.325	confusa	
+Degelius_1948_L-60479	50.00	5.00	0.350	confusa	
+Degelius_1948_L-60479			0.375	confusa	
+Degelius_1948_L-60479			0.400	confusa	
+Degelius_1948_L-60479			0.275	confusa	
+Degelius_1948_L-60479			0.325	confusa	
+Degelius_1948_L-60479			0.350	confusa	
+Degelius_1948_L-60479			0.375	confusa	
+Degelius_1948_L-60479			0.300	confusa	
+MS3870_C436	56.00	4.00	0.275	confusa	
+MS3870_C436	54.00	4.00	0.275	confusa	
+MS3870_C436	48.00	5.00	0.250	confusa	
+MS3870_C436	60.00	5.00	0.250	confusa	
+MS3870_C436	59.00	5.00	0.250	confusa	
+MS3870_C436	62.50	4.00	0.325	confusa	
+MS3870_C436	77.00	4.00	0.325	confusa	
+MS3870_C436	56.00	5.50	0.325	confusa	
+MS3870_C436	48.00	5.50	0.325	confusa	
+MS3870_C436	53.00	5.50	0.325	confusa	
+MS3870_C436	52.50	4.50	0.300	confusa	
+MS3870_C436	50.00	4.50	0.300	confusa	
+MS3870_C436	47.00	5.50	0.300	confusa	
+MS3870_C436	60.00	5.00	0.375	confusa	
+MS3870_C436	53.00	5.00	0.375	confusa	
+MS3870_C436	45.00	5.50	0.375	confusa	
+MS3870_C436	52.00	4.50	0.350	confusa	
+MS3870_C436	50.00	5.00	0.350	confusa	
+MS3870_C436	50.00	5.00	0.225	confusa	
+MS3870_C436	55.00	5.00	0.450	confusa	
+MS3870_C436	62.00	4.50		confusa	
+MS3870_C436	46.00	6.00		confusa	
+Westberg_ULR152	40.00	4.00	0.250	confusa	
+Westberg_ULR152	65.00	3.00	0.275	confusa	
+Westberg_ULR152	45.00	5.00	0.200	confusa	
+Westberg_ULR152	50.00	6.00	0.300	confusa	
+Westberg_ULR152	32.50	6.25	0.275	confusa	
+Westberg_ULR152	35.00	6.25	0.325	confusa	
+Westberg_ULR152	40.00	5.50	0.325	confusa	
+Westberg_ULR152	52.50	5.50	0.325	confusa	
+Westberg_ULR152	53.50	5.00	0.300	confusa	
+Westberg_ULR152	67.00	4.00	0.375	confusa	
+Westberg_ULR152	43.00	4.00		confusa	
+Westberg_ULR152	46.00	4.50		confusa	
+Westberg_ULR152	47.00	6.00		confusa	
+Westberg_ULR152	52.00	7.00		confusa	
+Westberg_ULR152	52.00	5.50		confusa	
+Westberg_ULR009	56.00	4.00	0.450	acutior	
+Westberg_ULR009	55.00	4.00	0.175	acutior	
+Westberg_ULR009	40.00	4.50	0.200	acutior	
+Westberg_ULR009	55.00	3.50	0.175	acutior	
+Westberg_ULR009	46.00	4.50	0.200	acutior	
+Westberg_ULR009	55.00	3.00	0.250	acutior	
+Westberg_ULR009	57.00	3.50	0.200	acutior	
+Westberg_ULR009	67.00	3.50	0.150	acutior	
+Westberg_ULR009	42.00	5.00	0.150	acutior	
+Westberg_ULR009	62.00	3.50	0.150	acutior	
+Westberg_ULR009	60.00	3.00	0.150	acutior	
+Westberg_ULR009	56.00	3.50	0.175	acutior	
+Westberg_ULR009	55.00	4.00	0.175	acutior	
+Westberg_ULR009	52.00	4.00	0.175	acutior	
+Westberg_ULR009	48.00	4.00	0.175	acutior	
+Westberg_ULR009	54.00	3.50	0.175	acutior	
+Westberg_ULR009	57.00	4.00	0.200	acutior	
+L-794772_Fiby	50.00	3.50	0.175	acutior	
+L-794772_Fiby	62.00	3.50	0.150	acutior	
+L-794772_Fiby	65.00	3.50	0.200	acutior	
+L-794772_Fiby	62.00	3.00	0.150	acutior	
+L-794772_Fiby	64.00	4.00	0.175	acutior	
+L-794772_Fiby	70.00	3.50	0.200	acutior	
+L-794772_Fiby	57.00	3.50	0.175	acutior	
+L-794772_Fiby	58.00	3.50	0.225	acutior	
+L-794772_Fiby	57.00	3.00		acutior	
+L-794772_Fiby	53.00	3.00		acutior	
+L-794772_Fiby	59.00	3.00		acutior	
+L-794772_Fiby	56.00	3.50		acutior	
+L-794772_Fiby	58.00	3.50		acutior	
+L-794772_Fiby	61.00	3.50		acutior	
+L-794772_Fiby	56.00	3.00		acutior	
+MS3209	59.00	3.00	0.150	acutior	
+MS3209	48.00	4.50	0.250	acutior	
+MS3209	64.00	3.00	0.150	acutior	
+MS3209	53.00	3.00	0.300	acutior	
+MS3209	50.00	3.00	0.250	acutior	
+MS3209	55.00	4.00	0.225	acutior	
+MS3209	55.00	3.00	0.200	acutior	
+MS3209	40.00	4.50	0.275	acutior	
+MS3209	58.00	3.50		acutior	
+MS3209	46.00	3.50		acutior	
+MS3209	52.50	3.00		acutior	
+MS3209	41.00	4.00		acutior	
+MS3209	47.00	3.00		acutior	
+MS3209	48.50	3.00		acutior	
+MS3209	50.00	4.00		acutior	
+MS3209	46.00	4.00		acutior	
+MS3209	42.00	4.00		acutior	
+MS3209	48.00	4.00		acutior	
+MS3047_C006	32.00	4.00	0.125	acutior	
+MS3047_C006	52.00	3.50	0.150	acutior	
+MS3047_C006	45.00	3.00	0.150	acutior	
+MS3047_C006	44.00	3.50	0.150	acutior	
+MS3047_C006	48.00	4.00	0.125	acutior	
+MS3047_C006	52.00	4.00	0.175	acutior	
+MS3047_C006	42.00	4.00	0.175	acutior	
+MS3047_C006	60.00	4.00	0.175	acutior	
+MS3047_C006	40.00	3.50	0.175	acutior	
+MS3047_C006	47.00	4.00	0.150	acutior	
+MS3047_C006	43.50	3.00	0.200	acutior	
+MS3047_C006	46.00	3.50	0.200	acutior	
+MS3047_C006	43.00	3.50	0.225	acutior	
+MS3047_C006	42.50	4.00	0.250	acutior	
+MS3047_C006	48.00	4.00		acutior	
+MS3047_C006	49.50	4.00		acutior	
+MS3047_C006	45.00	3.50		acutior	
+MS3047_C006	62.00	3.00		acutior	
+MS3047_C006	57.00	3.50		acutior	
+MS3047_C006	57.00	3.50		acutior	
+MS3047_C006	59.00	3.00		acutior	
+MS3047_C006	46.00	3.50		acutior	
+MS3047_C006	54.00	4.00		acutior	
+MS3047_C006	61.00	3.00		acutior	
+MS3047_C006	42.50	3.50		acutior	
+MS1281_C016	52.00	3.00	0.325	acutior	
+MS1281_C016	47.00	3.50	0.150	acutior	
+MS1281_C016	54.00	3.50	0.150	acutior	
+MS1281_C016	47.00	3.40	0.150	acutior	
+MS1281_C016	59.00	3.50	0.175	acutior	
+MS1281_C016	53.00	3.00	0.175	acutior	
+MS1281_C016	57.00	3.00	0.175	acutior	
+MS1281_C016	46.00	4.00	0.175	acutior	
+MS1281_C016	52.00	3.00	0.175	acutior	
+MS1281_C016	53.50	3.00	0.200	acutior	
+MS1281_C016	62.00	4.00	0.200	acutior	
+MS1281_C016	63.00	3.50	0.200	acutior	
+MS1281_C016	52.00	4.00	0.200	acutior	
+MS1281_C016	55.00	3.00	0.225	acutior	
+MS1281_C016	55.00	3.00	0.225	acutior	
+MS1281_C016	66.00	3.00	0.225	acutior	
+MS1281_C016	48.00	4.00	0.225	acutior	
+MS1281_C016	57.00	3.00	0.225	acutior	
+MS1281_C016	40.00	3.50	0.225	acutior	
+MS1281_C016			0.225	acutior	
+Hermansson_15200_C082	52.00	3.00	0.150	acutior	
+Hermansson_15200_C082	45.00	3.50	0.200	acutior	
+Hermansson_15200_C082	53.00	4.00	0.150	acutior	
+Hermansson_15200_C082	47.00	3.00	0.200	acutior	
+Hermansson_15200_C082	48.00	3.00	0.200	acutior	
+Hermansson_15200_C082	50.00	3.50	0.200	acutior	
+Hermansson_15200_C082	47.00	3.00	0.125	acutior	
+Hermansson_15200_C082	42.00	3.00	0.150	acutior	
+Hermansson_15200_C082	50.00	3.00	0.150	acutior	
+Hermansson_15200_C082	52.00	3.50	0.150	acutior	
+Hermansson_15200_C082	45.00	3.50	0.200	acutior	
+Hermansson_15200_C082	60.00	3.00	0.225	acutior	
+Hermansson_15200_C082	43.50	3.00	0.200	acutior	
+Hermansson_15200_C082			0.175	acutior	
+Hermansson_15200_C082			0.150	acutior	
+Hermansson_15200_C082			0.175	acutior	
+LD_1117062	28.00	4.50	0.300	interfixa	
+LD_1117062	31.00	4.50	0.450	interfixa	
+LD_1117062	26.50	5.00	0.375	interfixa	
+LD_1117062	34.00	4.00	0.350	interfixa	
+LD_1117062	33.50	5.00	0.425	interfixa	
+LD_1117062	35.30	4.50	0.425	interfixa	
+LD_1117062	37.00	4.50	0.525	interfixa	
+LD_1117062	41.00	4.50	0.375	interfixa	
+LD_1117062	38.00	4.00	0.325	interfixa	
+LD_1117062	48.00	4.00	0.425	interfixa	
+LD_1117062	36.00	4.00		interfixa	
+LD_1117062	36.00	4.00		interfixa	
+LD_1117062	48.00	4.50		interfixa	
+LD_1117062	38.00	4.00		interfixa	
+LD_1117062	39.00	4.00		interfixa	
+LD_1117062	31.00	4.50		interfixa	
+LD_1117062	45.00	4.00		interfixa	
+LD_1117062	34.00	3.50		interfixa	
+teretiuscula_holo	48.00	5.00	0.900	teretiuscula	
+teretiuscula_holo	50.00	5.00	0.625	teretiuscula	
+teretiuscula_holo	48.00	4.50	0.500	teretiuscula	
+teretiuscula_holo	47.00	5.50	0.500	teretiuscula	
+teretiuscula_holo	56.00	5.00	0.500	teretiuscula	
+teretiuscula_holo	42.00	4.50	0.450	teretiuscula	
+teretiuscula_holo	51.00	4.00	0.450	teretiuscula	
+teretiuscula_holo	44.50	5.00	0.325	teretiuscula	
+teretiuscula_holo	50.00	5.00	0.250	teretiuscula	
+teretiuscula_holo	45.00	4.50	0.225	teretiuscula	
+teretiuscula_holo	40.00	5.00	0.350	teretiuscula	
+teretiuscula_holo	51.00	4.50	0.375	teretiuscula	
+teretiuscula_holo	46.00	5.00	0.350	teretiuscula	
+teretiuscula_holo	40.50	4.50	0.575	teretiuscula	
+teretiuscula_holo	42.00	4.50	0.625	teretiuscula	
+teretiuscula_holo	55.00	4.00	0.875	teretiuscula	
+teretiuscula_holo	59.00	4.00	0.675	teretiuscula	
+teretiuscula_holo	52.00	4.00	0.425	teretiuscula	
+teretiuscula_holo	53.00	5.00		teretiuscula	
+teretiuscula_holo	57.00	4.00		teretiuscula	
+teretiuscula_holo	59.00	5.00		teretiuscula	
+teretiuscula_holo	61.00	5.00		teretiuscula	
+L-062018	30.50	4.50	0.450	interfixa	
+L-062018	35.00	5.00	0.300	interfixa	
+L-062018	32.00	4.50	0.400	interfixa	
+L-062018	25.00	5.00	0.525	interfixa	
+L-062018	24.00	5.00	0.525	interfixa	
+L-062018	29.00	5.00	0.375	interfixa	
+L-062018	40.00	4.50	0.400	interfixa	
+L-062018	30.00	4.00	0.475	interfixa	
+L-062018	30.00	5.00	0.375	interfixa	
+L-062018	30.00	5.00	0.450	interfixa	
+L-062018	31.00	5.00	0.375	interfixa	
+L-062018	32.00	5.00	0.300	interfixa	
+L-062018	26.00	4.50	0.450	interfixa	
+L-062018	28.00	4.50	0.375	interfixa	
+L-062018	31.00	5.00	0.375	interfixa	
+L-062018	27.00	4.00	0.300	interfixa	
+L-062018	33.00	4.50	0.575	interfixa	
+L-062018	29.00	4.00	0.650	interfixa	
+L-062018	28.50	4.50	0.450	interfixa	
+L-062018	28.00	5.00	0.450	interfixa	
+L-062018			0.625	interfixa	
+L-062018			0.250	interfixa	
+L-062018			0.425	interfixa	
+L-062018			0.500	interfixa	
+L-602621	31.00	5.00	0.300	interfixa	
+L-602621	26.00	5.00	0.425	interfixa	
+L-602621	32.00	4.00	0.375	interfixa	
+L-602621	27.00	4.50	0.275	interfixa	
+L-602621	30.00	5.00	0.325	interfixa	
+L-602621	29.00	4.00	0.425	interfixa	
+L-602621	29.00	4.50	0.325	interfixa	
+L-602621	33.00	5.00	0.300	interfixa	
+L-602621	39.00	4.00	0.500	interfixa	
+L-602621	28.00	4.50	0.475	interfixa	
+L-602621	32.00	5.00	0.425	interfixa	
+L-602621	26.00	5.00	0.425	interfixa	
+L-602621	23.00	4.00	0.450	interfixa	
+L-602621	22.00	5.00		interfixa	
+L-602621	30.00	4.00		interfixa	
+L-602621	28.00	5.00		interfixa	
+L-602621	25.00	5.00		interfixa	
+L-602621	28.00	5.00		interfixa	
+L-602621	33.00	4.00		interfixa	
+L-602621	33.00	4.00		interfixa	
+L-602621	23.50	5.50		interfixa	
+L-602621	42.00	4.00		interfixa	
+L-602621	25.00	5.00		interfixa	
+L-602621	32.00	4.00		interfixa	
+acutior_lecto	50.00	4.00	0.200	acutior	
+acutior_lecto	56.00	3.00	0.200	acutior	
+acutior_lecto	53.00	3.50	0.175	acutior	
+acutior_lecto	52.50	3.50	0.300	acutior	
+acutior_lecto	66.00	3.50	0.200	acutior	
+acutior_lecto	51.00	3.00	0.250	acutior	
+acutior_lecto	61.00	4.00	0.300	acutior	
+acutior_lecto			0.275	acutior	
+acutior_lecto			0.275	acutior	
+acutior_lecto			0.350	acutior	
+acutior_lecto			0.225	acutior	
+acutior_lecto			0.275	acutior	
+acutior_lecto			0.300	acutior	
+cisalpina_iso	61.00	4.00	0.200	delicatula	
+cisalpina_iso	51.50	5.50	0.250	delicatula	
+cisalpina_iso	65.00	5.00	0.375	delicatula	
+cisalpina_iso	54.50	5.50	0.375	delicatula	
+cisalpina_iso	60.00	5.00	0.375	delicatula	
+cisalpina_iso	62.00	5.50	0.375	delicatula	
+cisalpina_iso	44.00	6.50	0.425	delicatula	
+cisalpina_iso	68.00	5.50	0.300	delicatula	
+cisalpina_iso	58.00	5.00	0.300	delicatula	
+cisalpina_iso	50.50	5.50	0.300	delicatula	
+cisalpina_iso	51.50	5.50	0.350	delicatula	
+cisalpina_iso	49.00	4.50	0.350	delicatula	
+cisalpina_iso			0.350	delicatula	
+cisalpina_iso			0.325	delicatula	
+cisalpina_iso			0.500	delicatula	
+delicatula_lecto	54.00	5.00	0.475	delicatula	
+delicatula_lecto	51.00	5.00	0.225	delicatula	
+delicatula_lecto	60.00	5.50	0.300	delicatula	
+delicatula_lecto	60.00	4.50	0.300	delicatula	
+delicatula_lecto	67.00	6.00	0.300	delicatula	
+delicatula_lecto	65.00	5.00	0.275	delicatula	
+delicatula_lecto	69.00	5.50	0.275	delicatula	
+delicatula_lecto	47.00	5.00	0.200	delicatula	
+delicatula_lecto	52.00	6.50	0.350	delicatula	
+delicatula_lecto	52.00	4.50	0.350	delicatula	
+delicatula_lecto	60.50	5.00	0.300	delicatula	
+delicatula_lecto	54.00	5.50	0.325	delicatula	
+delicatula_lecto	62.00	5.00	0.200	delicatula	
+delicatula_lecto	53.00	5.00	0.425	delicatula	
+delicatula_lecto	53.00	5.50	0.200	delicatula	
+delicatula_lecto	50.50	6.50	0.300	delicatula	
+delicatula_lecto	61.00	4.50	0.275	delicatula	
+delicatula_lecto	48.00	6.50	0.300	delicatula	
+delicatula_lecto			0.200	delicatula	
+delicatula_lecto			0.250	delicatula	
+C1237	59.00	5.50	0.250	confusa	
+C1237	71.00	5.50	0.200	confusa	
+C1237	57.00	4.50	0.300	confusa	
+C1237	51.50	5.00	0.300	confusa	
+C1237	61.00	4.00	0.325	confusa	
+C1237	59.00	4.50	0.325	confusa	
+C1237	59.00	4.50	0.250	confusa	
+C1237	53.00	5.00	0.175	confusa	
+C1237	63.00	5.00	0.350	confusa	
+C1237	54.00	5.00	0.300	confusa	
+C1237	61.50	4.50	0.275	confusa	
+C1237	55.00	4.00	0.325	confusa	
+C1237	60.00	5.00	0.200	confusa	
+C1237	58.00	4.50	0.275	confusa	
+C1237			0.275	confusa	
+C1237			0.325	confusa	
+C1237			0.300	confusa	
+C1237			0.450	confusa	
+C1239	62.00	5.00	0.125	confusa	
+C1239	60.00	5.50	0.175	confusa	
+C1239	56.00	5.00	0.275	confusa	
+C1239	68.00	5.50	0.275	confusa	
+C1239	61.00	5.00	0.275	confusa	
+C1239	65.00	4.50	0.425	confusa	
+C1239	71.00	4.50	0.250	confusa	
+C1239	66.00	5.00	0.325	confusa	
+C1239	62.00	4.50	0.200	confusa	
+C1239	52.00	5.50	0.225	confusa	
+C1239	50.50	5.00	0.250	confusa	
+C1239	60.50	5.00	0.450	confusa	
+C1239	56.00	5.00	0.300	confusa	
+C1239	60.50	4.50		confusa	
+C1233	52.00	4.50	0.300	confusa	
+C1233	52.00	6.00	0.300	confusa	
+C1233	49.00	4.50	0.250	confusa	
+C1233	46.00	5.50	0.350	confusa	
+C1233	55.50	4.50	0.375	confusa	
+C1233	53.00	6.50	0.275	confusa	
+C1233	51.00	6.00	0.300	confusa	
+C1233	51.00	5.00	0.350	confusa	
+C1233	51.00	4.00	0.300	confusa	
+C1233	55.00	5.50	0.275	confusa	
+C1233	41.00	4.00	0.400	confusa	
+C1233	57.00	4.50	0.350	confusa	
+C1233	56.00	3.50	0.325	confusa	
+C1233	60.50	4.00	0.300	confusa	
+C1233	52.00	5.50	0.375	confusa	
+C1233	59.00	5.50	0.300	confusa	
+C1233	56.00	5.00	0.250	confusa	
+C1233	52.50	5.00		confusa	
+C1243	57.00	4.00	0.375	confusa	
+C1243	46.50	5.50	0.200	confusa	
+C1243	62.00	5.50	0.200	confusa	
+C1243	64.00	5.00	0.325	confusa	
+C1243	44.00	4.50	0.425	confusa	
+C1243	47.00	5.50	0.275	confusa	
+C1243	66.00	4.50	0.300	confusa	
+C1243	64.00	4.50	0.325	confusa	
+C1243	46.00	4.50	0.300	confusa	
+C1243	47.00	4.50	0.375	confusa	
+C1243	68.00	4.50	0.350	confusa	
+C1243	66.50	5.00	0.325	confusa	
+C1243	67.00	4.00	0.225	confusa	
+C1243	52.00	4.50	0.175	confusa	
+C1243	58.00	4.50	0.175	confusa	
+C1243	59.00	4.00	0.250	confusa	
+interfixa_isolecto_S_F145773	32.00	6.00	0.310	interfixa	
+interfixa_isolecto_S_F145773	30.00	5.00	0.403	interfixa	
+interfixa_isolecto_S_F145773	20.00	5.50	0.434	interfixa	
+interfixa_isolecto_S_F145773	32.00	5.00	0.527	interfixa	
+interfixa_isolecto_S_F145773	34.00	6.00	0.372	interfixa	
+interfixa_isolecto_S_F145773	32.00	6.00	0.372	interfixa	
+interfixa_isolecto_S_F145773	39.00	5.50	0.341	interfixa	
+interfixa_isolecto_S_F145773	29.00	6.00	0.372	interfixa	
+interfixa_isolecto_S_F145773	39.00	5.50	0.341	interfixa	
+interfixa_isolecto_S_F145773	37.00	6.00	0.279	interfixa	
+interfixa_isolecto_S_F145773	37.00	5.00	0.372	interfixa	
+interfixa_isolecto_S_F145773	32.00	5.00	0.434	interfixa	
+interfixa_isolecto_S_F145773	29.50	5.00	0.310	interfixa	
+interfixa_isolecto_S_F145773	23.00	5.00	0.370	interfixa	
+interfixa_isolecto_S_F145773	31.00	5.00		interfixa	
+interfixa_isolecto_S_F145773	30.00	5.00		interfixa	
+interfixa_isolecto_S_F145773	33.00	5.00		interfixa	
+interfixa_isolecto_S_F145773	34.00	5.00		interfixa	
+interfixa_isolecto_S_F145773	30.50	5.00		interfixa	
+S-F146788	34.00	4.50	0.434	interfixa	
+S-F146788	31.00	6.00	0.310	interfixa	
+S-F146788	30.00	5.50	0.341	interfixa	
+S-F146788	35.00	4.50	0.341	interfixa	
+S-F146788	36.00	4.50	0.434	interfixa	
+S-F146788	33.00	5.00	0.527	interfixa	
+S-F146788	28.00	5.50	0.341	interfixa	
+S-F146788	33.50	5.00	0.279	interfixa	
+S-F146788	27.50	4.50	0.310	interfixa	
+S-F146788	30.50	6.00	0.310	interfixa	
+S-F146788	35.50	5.00	0.363	interfixa	
+S-F146788	36.50	5.00		interfixa	
+S-F146788	31.00	5.00		interfixa	
+S-F146788	31.00	5.00		interfixa	
+S-F146788	33.00	5.50		interfixa	
+S-F146788	31.50	5.00		interfixa	
+S-F146788	28.00	6.00		interfixa	
